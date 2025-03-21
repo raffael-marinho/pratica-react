@@ -1,6 +1,8 @@
+import MyComponent from "./components/YourFistComponent";
+
 function App() {
   return (
-    <div>react</div>
+    <div><MyComponent/></div>
   );
 }
 
